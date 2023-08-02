@@ -1,7 +1,7 @@
 # Medical_Student_Task4
 
 # Introduction
-This task was preceded by the session on pivot tables, where we looked at what a pivot table is, its use and how to use it to summarize our data to gain insights. In this session on the use of Excel, a medical student dataset was provided by the instructor Promise Chinonso which contained 13 columns and 200001 rows of information
+This task was preceded by the session on pivot tables, where we looked at what a pivot table is, its use and how to use it to summarize our data to gain insights. In this session on the use of Excel, a medical student dataset was provided by the instructor **Promise Chinonso** which contained 13 columns and 200001 rows of information
 
 # Task
 The head of the medical department needed information about the health and lifestyle of students in the department. He decided to carry out research with the use of an online survey to know how the heart rate, temperature, age etc of his students and to know how many are living a diabetic-free life and those who engage in smoking. With respect to this, the following insights should be generated and visualized;
